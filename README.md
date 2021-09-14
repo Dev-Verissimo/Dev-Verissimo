@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na UNIFAA.
 - 🎓 &nbsp; Estudando **Engenharia de controle e automação** no CEFET-MG.
-- 💼 &nbsp; Estagiando como **Camper(FullStack)** na RedFox.
+- 💼 &nbsp; Front end Junior na StrongWay.
 - 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento Web**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
