@@ -5,9 +5,9 @@
 <h3>Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na UNIFAA.
-- 🎓 &nbsp; Estudando **Engenharia de controle e automação** no CEFET-MG.
-- 💼 &nbsp; Front end Junior na StrongWay.
+- 🎓 &nbsp; Estudando **Ciência da Computação** na Faculdade Descomplica.
+- 🎓 &nbsp;  **Desenvolvedora Front end** pelo IGTI.
+- 💼 &nbsp; Front end Junior na E-can.
 - 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento Web**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
