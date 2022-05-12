@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Ciência da Computação** na Faculdade Descomplica.
 - 🎓 &nbsp;  **Desenvolvedora Front end** pelo IGTI.
-- 💼 &nbsp; Front end Junior na E-can.
+- 💼 &nbsp; Software Developer.
 - 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento Web**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
